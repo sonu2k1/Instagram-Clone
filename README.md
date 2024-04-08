@@ -1,2 +1,2 @@
 # Instagram-Clone
-<p>Insta clone</p>
+![Uploading image.png…]()
